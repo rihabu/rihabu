@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=100&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BC8F8F&height=100&section=header"/>
  
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=38&center=true&vCenter=true&width=1000&lines=Namárië!+My+Name+Is+__RIHAB__;I’m+26+Years+Young+Graduated+Medicinae+Doctor;And+Learning+AI+Craftsmanship+Is+My+Advanture!)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFDEAD&size=38&center=true&vCenter=true&width=1000&lines=Namárië!+My+Name+Is+__RIHAB__;I’m+26+Years+Young+Graduated+Medicinae+Doctor;And+Learning+AI+Craftsmanship+Is+My+Advanture!)](https://git.io/typing-svg)
  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BC8F8F&height=100&section=footer"/>
 
 
 ### I'm getting familiar with :
@@ -21,7 +21,7 @@
 
 #
  
-   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=carolbarbosa101&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rihabu&bg_color=ffdead&color=a0522d&line=7e643d&point=7f643d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 #
 <div align="center"> 
   <img src="https://moon-svg.minung.dev/moon.svg?size=200&theme=ray&rotate=0" />
