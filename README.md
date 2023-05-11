@@ -21,21 +21,18 @@
 
 #
  
-   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rihabu&bg_color=ffdead&color=a0522d&line=7e643d&point=7f643d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rihabu&bg_color=1d1b1b&color=bc8f8f&line=bc8f8f&point=bc8f8f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 #
 <div align="center"> 
-  <img src="https://moon-svg.minung.dev/moon.svg?size=200&theme=ray&rotate=0" />
-  <img  src="https://github-readme-stats.vercel.app/api?username=rihabu&theme=moltack&show_icons=true" alt="My github stats" /> 
-  <img src="https://moon-svg.minung.dev/moon.svg?size=200&theme=ray&rotate=0" />
+ <img src="https://moon-svg.minung.dev/moon.svg?size=150&theme=ray&rotate=0" />
+ <img  src="https://github-readme-stats.vercel.app/api?username=rihabu&theme=moltack&show_icons=true" alt="My github stats" /> 
+ <img src="https://moon-svg.minung.dev/moon.svg?size=150&theme=ray&rotate=0" />
 </div>
 
-#
 
 <div align="center"> 
-<a href="https://instagram.com/carol_developer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.youtube.com/channel/UCvFCatDtfdvwKKXkndSAPiw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href = "mailto:cmp.1a.caroline@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/carolbarbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+  <a href = "rihab.toumi.lv@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/dr-toumi-rihab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
 
