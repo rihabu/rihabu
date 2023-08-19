@@ -21,8 +21,6 @@
 
 #
  
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rihabu&bg_color=1d1b1b&color=bc8f8f&line=bc8f8f&point=bc8f8f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-#
 <div align="center"> 
  <img src="https://moon-svg.minung.dev/moon.svg?size=150&theme=ray&rotate=0" />
  <img  src="https://github-readme-stats.vercel.app/api?username=rihabu&theme=moltack&show_icons=true" alt="My github stats" /> 
