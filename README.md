@@ -8,4 +8,4 @@
  <summary><h3>My Journey</h3></summary>
   _________________________________
 
-<a href="https://u8views.com/github/rihabu"><img src="https://u8views.com/api/v1/github/profiles/68768130/views/day-week-month-total-count.svg"></a>
+
