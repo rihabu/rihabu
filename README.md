@@ -1,142 +1,133 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Digital%20Realm&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Where%20Medicine%20Meets%20AI%20Magic&descSize=12&descAlignY=55" />
+<!-- Animated Header with Adventure Theme -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,17,11&height=160&section=header&text=The%20Journey%20Continues...&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=38" />
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=E62429&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%F0%9F%A9%BA+Dr.+%5BYour+Name%5D+%F0%9F%A4%96;%F0%9F%A6%B8%E2%80%8D%E2%99%80%EF%B8%8F+Healthcare+AI+Avenger;%F0%9F%94%AC+From+Stethoscope+to+Algorithms;%E2%9A%A1+One+does+not+simply+debug+medical+AI..." alt="Typing SVG" />
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Animated Quote -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=2000&color=228B22&center=true&vCenter=true&multiline=true&width=700&height=80&lines=%22It's+the+job+that's+never+started+as+takes+longest+to+finish.%22;%22All+we+have+to+decide+is+what+to+do+with+the+time+given+us.%22;%22The+road+goes+ever+on+and+on...%22" alt="Hobbit Quotes" />
 
 </div>
 
-<!-- Profile Views Counter with Animation -->
+---
+
+## 🗺️ **Current Quest**
+
+**Healthcare AI Researcher** • **Medical Technology Explorer** • **Lifelong Learner**
+
+> Embarking on an adventure to bridge medicine and artificial intelligence, driven by curiosity and the desire to heal through innovation.
+
+---
+
+## 🎒 **Adventure Gear** 
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=e62429&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=518cca&labelColor=2c3e50" alt="GitHub Followers" />
+
+### **Languages & Tools**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### **Specialized Equipment**
+![MONAI](https://img.shields.io/badge/MONAI-Medical%20AI-00D4AA?style=for-the-badge&logo=medical&logoColor=white)
+![MedSAM](https://img.shields.io/badge/MedSAM-Segmentation-FF6B6B?style=for-the-badge&logo=medical&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
 </div>
 
-<br>
+---
 
-<!-- Marvel-themed About Section -->
-<div align="center">
+## 🧭 **Path Traveled**
 
-## 🦸‍♀️ **ORIGIN STORY** 🦸‍♀️
+```
+🎓 Doctor of Medicine (2022)
+    ↓
+💻 CS50 Python & SQL
+    ↓
+🤖 Machine Learning Specialization
+    ↓
+🔬 Medical AI Research
+    ↓
+🚀 Current Adventure...
+```
 
-</div>
+---
 
-<table align="center">
+## 🌟 **Areas of Exploration**
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌟 **The Hero's Journey**
-```
-🏥 Doctor of Medicine → 💻 AI Researcher
-🇩🇿 Algeria → 🌍 Global Healthcare AI
-⚕️ Healing Hands → 🤖 Healing Algorithms
-```
+### 🏥 **Medical Imaging**
+- Computer Vision in Radiology
+- CNN Architectures for Classification
+- Medical Image Annotation
 
-**Mission Statement:**
-> *"With great power comes great responsibility"*
-> 
-> Combining medical expertise with AI superpowers to revolutionize healthcare, one algorithm at a time! 🚀
+### 🔬 **Research Interests**
+- Surgical AI Applications
+- Pre-trained Model Implementation
+- Healthcare Technology Innovation
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 **Current Status**
-- 🔥 **Age:** 27 years young
-- 🏠 **Base:** Algeria 🇩🇿
-- 🎓 **Class:** Doctor/AI Researcher
-- ⚡ **Superpower:** Medical AI
-- 🎮 **Level:** Continuously Leveling Up!
-
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=vue&title_color=228B22&icon_color=FF6B6B&text_color=2C3E50&bg_color=F0F8FF&hide_border=true" alt="GitHub Stats" />
 </div>
 
 </td>
 </tr>
 </table>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-<!-- Tolkien-themed Education Section -->
+## 📊 **Journey Progress**
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=vue&hide_border=true&area=true&custom_title=The%20Adventure%20Continues..." alt="Activity Graph" />
+</div>
+
+---
+
+## 🌈 **Current Endeavors**
+
 <div align="center">
 
-## 📚 **THE FELLOWSHIP OF LEARNING** 📚
-*"All we have to decide is what to do with the time that is given us." - Gandalf*
+<!-- Animated Current Focus -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1500&color=FF6B6B&center=true&vCenter=true&width=600&lines=Building+CNN+models+for+medical+classification;Exploring+MONAI+framework+workflows;Contributing+to+open-source+medical+AI;Learning+advanced+segmentation+techniques" alt="Current Work" />
 
 </div>
 
-<table>
-<tr>
-<td width="33%" align="center">
+**🎯 Active Projects:**
+- Medical image classification using deep learning
+- Implementing computer vision for diagnostic imaging  
+- Exploring surgical AI applications
+- Contributing to healthcare technology advancement
 
-### 🏰 **The Halls of Healing**
-<img src="https://img.shields.io/badge/Doctor%20of%20Medicine-2022-gold?style=for-the-badge&logo=medical&logoColor=white&labelColor=228b22" />
+---
 
-**University of Algiers**
-- ⚕️ Clinical Excellence
-- 🩺 Patient Care Mastery
-- 🏥 Medical Foundation
+## 🤝 **Fellow Travelers Welcome**
 
-</td>
-<td width="33%" align="center">
-
-### 🧙‍♀️ **The Code Wizard Path**
-<img src="https://img.shields.io/badge/CS50-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/CS50-SQL-orange?style=for-the-badge&logo=mysql&logoColor=white" />
-
-**Harvard University**
-- 🐍 Python Mastery
-- 🗄️ Database Sorcery
-
-</td>
-<td width="33%" align="center">
-
-### 🤖 **The AI Apprenticeship**
-<img src="https://img.shields.io/badge/Machine%20Learning-Andrew%20Ng-red?style=for-the-badge&logo=coursera&logoColor=white" />
-
-**Coursera Specialization**
-- 🧠 ML Algorithms
-- 📊 Data Science
-- 🔬 AI Research
-
-</td>
-</tr>
-</table>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Marvel Skills Section -->
 <div align="center">
 
-## 💪 **SUPERPOWERS & ABILITIES** 💪
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🐍 **Primary Weapons**
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Proficient-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<!-- Animated Closing Quote -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=5000&pause=3000&color=228B22&center=true&vCenter=true&width=500&lines=%22There+is+nothing+like+looking%2C+if+you+want+to+find+something.%22;%22Adventure+is+out+there%2C+waiting+to+be+discovered.%22" alt="Closing Quote" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,17,11&height=100&section=footer" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=228B22&style=flat-square)
 
 </div>
+```
+```
 
-### 🏥 **Medical AI Arsenal**
-```python
-class HealthcareAI:
-    def __init__(self):
-        self.frameworks = ["MONAI", "MedSAM"]
-        self.expertise = ["Medical Imaging", "CNNs"]
-        self.platforms = ["Kaggle", "GitHub"]
-        self.passion = "Saving Lives with AI"
