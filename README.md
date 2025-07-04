@@ -18,24 +18,6 @@
 
 ---
 
-## 🎒 **Adventure Gear** 
-
-<div align="center">
-
-### **Languages & Tools**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### **Specialized Equipment**
-![MONAI](https://img.shields.io/badge/MONAI-Medical%20AI-00D4AA?style=for-the-badge&logo=medical&logoColor=white)
-![MedSAM](https://img.shields.io/badge/MedSAM-Segmentation-FF6B6B?style=for-the-badge&logo=medical&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-
-</div>
-
----
-
 ## 🧭 **Path Traveled**
 
 ```
@@ -56,7 +38,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### 🏥 **Medical Imaging**
 - Computer Vision in Radiology
@@ -72,20 +54,11 @@
 
 ---
 
-## 🌈 **Current Endeavors**
-
-<div align="center">
-
-<!-- Animated Current Focus -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1500&color=FF6B6B&center=true&vCenter=true&width=600&lines=Building+CNN+models+for+medical+classification;Exploring+MONAI+framework+workflows;Contributing+to+open-source+medical+AI;Learning+advanced+segmentation+techniques" alt="Current Work" />
-
 </div>
 
 **🎯 Active Projects:**
-- Medical image classification using deep learning
-- Implementing computer vision for diagnostic imaging  
+- Medical imaging classification using deep learning
 - Exploring surgical AI applications
-- Contributing to healthcare technology advancement
 
 ---
 
