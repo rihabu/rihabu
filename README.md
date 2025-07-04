@@ -39,7 +39,7 @@
 ## 🧭 **Path Traveled**
 
 ```
-🎓 Doctor of Medicine (2022)
+🎓 Doctor of Medicine
     ↓
 💻 CS50 Python & SQL
     ↓
@@ -110,9 +110,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dr-toumi-rihab/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/rihabtoumi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rihab.toumi.md@gmail.com)
 
 </div>
 
@@ -125,7 +125,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,17,11&height=100&section=footer" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=228B22&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=rihabu&color=228B22&style=flat-square)
 
 </div>
 ```
