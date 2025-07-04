@@ -31,27 +31,6 @@
     ↓
 🚀 Current Adventure...
 ```
-
----
-
-## 🌟 **Areas of Exploration**
-
-<table>
-<tr>
-<td width="100%" valign="top">
-
-### 🏥 **Medical Imaging**
-- Computer Vision in Radiology
-- CNN Architectures for Classification
-- Medical Image Annotation
-
-### 🔬 **Research Interests**
-- Surgical AI Applications
-- Pre-trained Model Implementation
-- Healthcare Technology Innovation
-
-</table>
-
 ---
 
 </div>
