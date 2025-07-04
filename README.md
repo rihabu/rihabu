@@ -68,24 +68,7 @@
 - Pre-trained Model Implementation
 - Healthcare Technology Innovation
 
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=vue&title_color=228B22&icon_color=FF6B6B&text_color=2C3E50&bg_color=F0F8FF&hide_border=true" alt="GitHub Stats" />
-</div>
-
-</td>
-</tr>
 </table>
-
----
-
-## 📊 **Journey Progress**
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=vue&hide_border=true&area=true&custom_title=The%20Adventure%20Continues..." alt="Activity Graph" />
-</div>
 
 ---
 
@@ -125,9 +108,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,17,11&height=100&section=footer" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=rihabu&color=228B22&style=flat-square)
 
 </div>
-```
-```
 
