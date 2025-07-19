@@ -23,9 +23,9 @@
 ```
 🎓 Doctor of Medicine
     ↓
-💻 CS50
+💻 CS
     ↓
-🤖 Machine Learning Specialization
+🤖 Machine Learning 
     ↓
 🔬 Medical AI Research
     ↓
